@@ -2,6 +2,7 @@ package fr.esiee.devops
 
 import fr.esiee.devops.program.Program
 
+import scala.annotation.tailrec
 import scala.util.Random
 
 object Main extends App {
