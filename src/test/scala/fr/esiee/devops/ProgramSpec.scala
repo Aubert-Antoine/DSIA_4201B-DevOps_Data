@@ -19,14 +19,14 @@ class ProgramSpec extends AnyFlatSpec with Matchers {
     }
   }
 
-  //TODO: Implement tests
   "lpadZeros" should "return the expected results" in {
-    ???
+    Program.lpadZeros(18, 3) shouldBe "018"
   }
 
   //TODO: Implement tests
   "isPrimeNumber" should "return the expected results" in {
-    ???
+    Program.isPrimeNumber(18) shouldBe false
+    Program.isPrimeNumber(13) shouldBe true
   }
 
 }
