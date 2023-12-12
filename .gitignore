@@ -1,3 +1,8 @@
+# My ssh key
+id_rsa
+id_rsa.pub
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
