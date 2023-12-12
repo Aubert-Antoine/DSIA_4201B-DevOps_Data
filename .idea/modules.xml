@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dsia_4201b-devops_data_5026.iml" filepath="$PROJECT_DIR$/.idea/modules/dsia_4201b-devops_data_5026.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dsia_4201b-devops_data_5026-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dsia_4201b-devops_data_5026-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-scala-project.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-scala-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-scala-project-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-scala-project-build.iml" />
     </modules>
   </component>
 </project>
