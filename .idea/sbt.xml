@@ -15,7 +15,7 @@
           </set>
         </option>
         <option name="preferScala2" value="false" />
-        <option name="sbtVersion" value="1.9.7" />
+        <option name="sbtVersion" value="1.9.4" />
       </SbtProjectSettings>
     </option>
   </component>
