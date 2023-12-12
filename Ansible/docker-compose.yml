@@ -1,0 +1,26 @@
+version: '3'
+services:
+  ansible:
+    image: your_first_image
+    volumes:
+      - C:\Users\antoi\IdeaProjects\DSIA_4201B-DevOps_Data\Ansible
+    networks:
+      - my_network
+
+  elastic:
+    image: your_servers_image
+    networks:
+      - my_network
+
+  app-dev:
+    image: your_servers_image
+    networks:
+      - my_network
+
+  app-prod:
+    image: your_servers_image
+    networks:
+      - my_network
+
+networks:
+  my_network:
